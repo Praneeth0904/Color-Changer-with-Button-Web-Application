@@ -1,6 +1,6 @@
 ---
 
-## 📌 Background Color Changer
+## 📌 Color Changer wth Button
 
 Changes background colors on button click.
 
@@ -23,7 +23,7 @@ HTML5 • CSS3 • JavaScript
 ## 📸 Preview
 
 
-https://github.com/user-attachments/assets/2b19b653-ccd2-4b30-acef-073b4594c990
+https://github.com/user-attachments/assets/e11040cc-794b-4d29-b06c-56ab6c0459d0
 
 
 ---
